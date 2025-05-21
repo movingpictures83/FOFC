@@ -1,0 +1,6 @@
+digraph g {
+ "AmountDonated" -> "_L1" [dir=both, arrowtail=normal, arrowhead=none]; 
+ "Imaginability" -> "_L1" [dir=both, arrowtail=normal, arrowhead=none]; 
+ "Sympathy" -> "_L1" [dir=both, arrowtail=normal, arrowhead=none]; 
+ "Impact" -> "_L1" [dir=both, arrowtail=normal, arrowhead=none]; 
+}
